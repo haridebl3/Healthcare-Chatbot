@@ -1,0 +1,193 @@
+{
+	"conversations": [
+		["What is your name","I am HariDebl"],
+		[
+			"Good morning, how are you?",
+			"I am doing well, how about you?",
+			"I'm also good.",
+			"That's good to hear.",
+			"oh."
+		],
+		[
+			"Hello",
+			"Hi",
+			"How are you doing?",
+			"I am doing well.",
+			"That is good to hear",
+			"Yes it is good to hear.",
+			"Can I help you with anything?",
+			"I have a question.",
+			"What is your question?",
+			"Could I borrow a cup of sugar?",
+			"I'm sorry, but I don't have any.",
+			"Thank you anyway",
+			"No problem"
+		],
+		
+		[
+			"Are you a programmer?",
+			"I am a programmer",
+			"What languages do you like to use?",
+			"I use Python, Java and C++ quite often.",
+			"I use Python quite a bit myself.",
+			"I'm not incredibly fond of Java.",
+			"What annoys you?",
+			"It has many inconsistencies."
+		],
+		
+		[
+			"Can I ask you a question?",
+			"Go ahead and ask."
+		],
+		["I have some doubts on my health",
+	 "Proceed your doubts on health.",
+	" my body get chills and oftenly cough comes ",
+	"it is one of the symptoms of flu",
+	"can you give me other symptoms that your are experiencing?",
+	"I also have runny nose and feel fatigue",
+	"okay,then it seems like you have affected by flu."
+	],
+
+	[
+	"I feels like my lymph glands are swollen in neck and while speaking bad breath is coming.",
+	"Do you feel difficulty in swallowing?",
+	"Yes, somtimes i feel sore throat also.",
+	"okay,then it seems like you have tonsils."
+	],
+
+	[
+	"Hello, I feel i have some health issues can you help me to identify that?",
+	"While studying I have trouble in concentrating,what can I do for that?",
+	"Thats normal, what other symptoms you felt?",
+	"Often I felt hopless and I am not getting proper sleep.",
+	"Okay, If you experience mood swings often then it seems like you have a chance of bipolar disorder."
+	],
+	
+	[
+	"For the past three days, i have fever, headache, muscle pain and vomiting could you help me to identify the disease related to these symptoms?",
+	"These are all common symptoms for many diseases. could you tell me anyother symptoms?",
+	"sure, sometimes my joints and abdomens also paining.",
+	"Do you have bleeding gums?",
+	"Yes, I do have during brushing.",
+	"These symptoms are related to Dengue fever,if it becomes severe then please consult doctor"
+	],
+
+	[
+	"My weight increased by 7kgs suddenly and my body gets sweats more",   
+	"okay,Did you have any discomfort other than this?",
+	"yes, nowadays i have irritability and getting tired often",
+	"Are you able to tolerate heat?",
+	"yes, i have ",
+	"Okay, all other symptoms other than what you said recently are related to thyroid",
+ 	"Could you please tell me what is the remedy for this?",
+	"Take food with adequate amount of Iodine, there are so many types of thyroid to identify that consult a doctor."
+	],
+
+	[
+	"Frequently I have discomfort in my left arm and sweating.",
+	"Do you have any discomfort in chest?",
+	"yes,sometimes i have and also heart burn",
+	"This symptoms are initial stage for heart disease so better consult the doctor."
+	],
+
+	[
+	"I often feels tired and decreased energy for doing works.",
+	"Do you have any other signs?",
+	"yes, shortness of breath also",
+	"Is your skin color appears pale?",
+	"yes,slightly",
+	"It seems like you have anaemia. Take proper fruits,vegetables and dates."
+	],
+
+	[
+	"I do experience increased thirst and increased urination",
+	"Do you have fatigue or nausea or vomiting?",
+	"yeah",
+	"Do you have any of these conditions?weight loss or gain,dehydration,hunger",
+	"yes",
+	"Are you experiencing blurred vision or dry mouth or itching skin",
+    "On experiencing the mentioned symptoms,you have sign of diabetes"
+	],      
+        
+	[
+	"Am having Diarrhea,Fever and vomiting",
+	"Are you experiencing Loss of Appetite and chills",
+	"yes i do",
+	"Is there is Painful Urination or rectal pain?",
+	"yes",
+	"Are you having Abdominal Pain or Abdominal Swelling or Abdominal Tenderness?",
+	"yes i have",
+	"On experiencing the above mentioned symptoms,it Seems like you have sign of appendicitis"
+	],
+     
+
+	[
+	"I am suffering from Abdominal Pain and Flank Pain",
+	"Are you having scrotal pain?",
+	"No,I don't",
+	"Is there is Blood in Urine?",
+	"yes it is",
+	"Are you having sweating ,vomiting or nausea?",
+	"sometimes",
+	"If you experience the above symptoms,you are having sign of kidney stone"
+	],
+        
+	[
+	"I have difficulty in speaking and difficulty in understanding speech",
+	"Do you have balance problems",
+	"yes i do",
+	"Are you having any symptoms like Change in Consciousness,Speech Loss,Vision Changes",
+	"yeah i do",
+        "Do you feel dizzy and Fatigue",
+	"No",
+	"Are you having Double Vision or trouble in Swallowing?",
+	"yes",
+	"Do you feel Lightheadedness,Muscle Stiffness?",
+	"yes i do",
+	"Are you having Paralysis or Nausea?",
+	"yes",
+	"It Seems like you have sign of stroke,if you have the mentioned symptoms "
+	],
+      
+	[
+	"I feel dizzy and have shortness of breath",
+	"Is there nosebleeds or blood in the urine",
+	"yeah",
+	"Do you have blurred vision or any other discomforts",
+	"yes i do",
+	"If you have fatigue or chest pain or nausea or severe headache,it seems like you have sign of high blood pressure"
+        ],
+
+	[
+	"I am having sore throat that does not heal and difficulty in swallowing",
+	"Do you have any change in the size, color, shape, or thickness of a mole?",
+	"yes it is",
+	"Do you experience loss of weight and appetite?",
+	"yeah i do have weight loss",
+     "Do you have any of the following symptoms?Nagging cough,pain in the bones,Persistent fatigue,nausea,low-grade fevers",
+	"some of those",
+	"Are you having these symptoms?if so,you may have cancer.Have a medical checkup "
+	],        
+        
+	[
+	"I do have nausea and sometimes vomiting",
+	"Do you feel increased sensitivity to light or sound?",
+	"yes i do have",
+	"In along with that do you experience dizziness and blurred vision?",
+	"yes",
+	"If you have any cognitive disturbances,it seems like you have sign of Migraine"
+        ],
+
+        [
+	"I do experience behavioural changes and Personality Changes",
+	"Do you experience decreased Ability for Self-Care or Memory Loss or Mood Changes?",
+	"Yes i do.",
+	"Do you feel that you have Poor Hygiene,feels Anger and Apathy",
+	"Yes i feel so.",
+	"It Seems like you  have sign of Alzheimer disease"
+        ]
+
+   
+
+	]
+}
